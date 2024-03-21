@@ -1,0 +1,1 @@
+from augmentation.character_augmentation.simple_character_based_augmentation import SimpleCharacterBasedAugmentation
